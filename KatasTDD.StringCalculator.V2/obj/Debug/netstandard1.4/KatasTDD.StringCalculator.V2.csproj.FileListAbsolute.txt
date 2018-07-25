@@ -1,0 +1,7 @@
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\bin\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.deps.json
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\obj\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.csprojResolveAssemblyReference.cache
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\obj\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.AssemblyInfo.cs
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\bin\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.dll
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\bin\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.pdb
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\obj\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.dll
+C:\Users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.V2\obj\Debug\netstandard1.4\KatasTDD.StringCalculator.V2.pdb
