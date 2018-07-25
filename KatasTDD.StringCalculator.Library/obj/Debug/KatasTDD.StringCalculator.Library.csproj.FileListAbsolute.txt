@@ -1,0 +1,8 @@
+c:\users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\bin\Debug\KatasTDD.StringCalculator.Library.dll
+c:\users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\bin\Debug\KatasTDD.StringCalculator.Library.pdb
+c:\users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\obj\Debug\KatasTDD.StringCalculator.Library.csprojResolveAssemblyReference.cache
+c:\users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\obj\Debug\KatasTDD.StringCalculator.Library.dll
+c:\users\gagoe\documents\visual studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\obj\Debug\KatasTDD.StringCalculator.Library.pdb
+C:\Users\gagoe\Documents\Visual Studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\bin\Debug\KatasTDD.StringCalculator.Library.dll.config
+C:\Users\gagoe\Documents\Visual Studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\bin\Debug\Moq.Contrib.dll
+C:\Users\gagoe\Documents\Visual Studio 2017\Projects\KatasTDD\KatasTDD.StringCalculator.Library\bin\Debug\Moq.dll
